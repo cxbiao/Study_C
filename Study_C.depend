@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1477040955 source:e:\cpp\study_c\pointer_analyse.c
+	<stdio.h>
+	<stdlib.h>
+
+1476869717 source:e:\cpp\study_c\basic_pointer.c
+	<stdio.h>
+	<stdlib.h>
+
+1476869754 source:e:\cpp\study_c\second_pointer.c
+	<stdio.h>
+	<stdlib.h>
+
+1476952981 source:e:\cpp\study_c\fun_pointer.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1476870819 source:e:\cpp\study_c\cv.c
+	<stdio.h>
+	<stdlib.h>
+
+1476955448 source:e:\cpp\study_c\malloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1477037711 source:e:\cpp\study_c\char_operation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477040973 source:e:\cpp\study_c\struct1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477044730 source:e:\cpp\study_c\fileio.c
+	<stdio.h>
+	<stdlib.h>
+
+1477044658 source:e:\cpp\study_c\struct.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

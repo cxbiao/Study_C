@@ -8,7 +8,7 @@
     不同类型的变量共用一段内存（相互覆盖） ， 始终只有一个成员存在 ， 最后赋值的那个 ， 有利于节省内存
     联合体大小：成员中最大的成员所占的字节数
 */
-union mValue {
+ union mValue {
 
     int i;
     short s;
@@ -89,11 +89,11 @@ void useEnum(){
     char *url="http://www.baidu.com";
     requestHttp(url,callBackHttp);
 }
-int main(){
-
-
-    useUnion();
-    useEnum();
-    return 0;
-
-}
+//int main(){
+//
+//
+//    useUnion();
+//    useEnum();
+//    return 0;
+//
+//}

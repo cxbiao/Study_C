@@ -31,31 +31,34 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="FileIO.c">
+		<Unit filename="FileIO08.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="basic_pointer.c">
+		<Unit filename="basic_pointer01.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="char_operation.c">
+		<Unit filename="char_operation06.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="fun_pointer.c">
+		<Unit filename="fun_pointer04.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="malloc.c">
+		<Unit filename="jni10.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="pointer_analyse.c">
+		<Unit filename="malloc05.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="second_pointer.c">
+		<Unit filename="pointer_analyse02.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="struct.c">
+		<Unit filename="second_pointer03.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="union.c">
+		<Unit filename="struct07.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="union09.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

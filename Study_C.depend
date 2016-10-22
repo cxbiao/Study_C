@@ -43,3 +43,87 @@
 	<stdlib.h>
 	<string.h>
 
+1477050709 source:f:\github\study_c\basic_pointer.c
+	<stdio.h>
+	<stdlib.h>
+
+1477050709 source:f:\github\study_c\char_operation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477050709 source:f:\github\study_c\fileio.c
+	<stdio.h>
+	<stdlib.h>
+
+1477050709 source:f:\github\study_c\fun_pointer.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1477050709 source:f:\github\study_c\malloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1477050709 source:f:\github\study_c\pointer_analyse.c
+	<stdio.h>
+	<stdlib.h>
+
+1477050709 source:f:\github\study_c\second_pointer.c
+	<stdio.h>
+	<stdlib.h>
+
+1477050709 source:f:\github\study_c\struct.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477050709 source:f:\github\study_c\union.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1477050709 source:f:\github\study_c\basic_pointer01.c
+	<stdio.h>
+	<stdlib.h>
+
+1477050709 source:f:\github\study_c\char_operation06.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477123541 source:f:\github\study_c\fileio08.c
+	<stdio.h>
+	<stdlib.h>
+
+1477050709 source:f:\github\study_c\fun_pointer04.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1477050709 source:f:\github\study_c\malloc05.c
+	<stdio.h>
+	<stdlib.h>
+
+1477050709 source:f:\github\study_c\pointer_analyse02.c
+	<stdio.h>
+	<stdlib.h>
+
+1477050709 source:f:\github\study_c\second_pointer03.c
+	<stdio.h>
+	<stdlib.h>
+
+1477050709 source:f:\github\study_c\struct07.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477123609 source:f:\github\study_c\union09.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1477126759 source:f:\github\study_c\jni10.c
+	<stdio.h>
+	<stdlib.h>
+
